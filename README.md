@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube)
 [![Linkedin Badge](https://img.shields.io/badge/-shivendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivendra--01629954/)](https://www.linkedin.com/in/shivendra-rai-67b948256/)
 [![Website Badge](https://img.shields.io/badge/WebSite-shivendra-green)](https://www.shivendra)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-shivendra-yellow)](https://stackoverflow.com/users/3687251/shivendra-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-shivendra-yellow)](https://stackoverflow.com/users/3/shivendra-)
 
 I'm
 Full Stack Solution Architect
